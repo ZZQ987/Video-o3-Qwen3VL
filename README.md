@@ -7,20 +7,17 @@
 <br>
 
 <p align="center">
+  <a href="https://video-o3.github.io/">
+    <img src="https://img.shields.io/badge/Project-Page-orange.svg" alt="Homepage">
+  </a>
   <a href="https://arxiv.org/abs/2601.23224">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b.svg" alt="Paper">
-  </a>
-  <a href="https://github.com/MCG-NJU/Video-o3">
-    <img src="https://img.shields.io/badge/Code-Github-green.svg" alt="Code">
   </a>
   <a href="https://huggingface.co/collections/MCG-NJU/video-o3">
     <img src="https://img.shields.io/badge/Model-HuggingFace-yellow.svg" alt="Model">
   </a>
   <a href="https://huggingface.co/datasets/MCG-NJU/Seeker-173K">
     <img src="https://img.shields.io/badge/Data-Seeker--173K-blue.svg" alt="Data">
-  </a>
-  <a href="https://video-o3.github.io/">
-    <img src="https://img.shields.io/badge/Project-Page-orange.svg" alt="Homepage">
   </a>
 </p>
 
