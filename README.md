@@ -24,13 +24,13 @@
 </div>
 
 ## :fire: Updates
+- [x] **2026/02/16**: 🔥🔥🔥Release the training code for SFT and RL.
+- [x] **2026/02/15**: 🔥🔥🔥Release the evaluation code for Video-o3.
 - [x] **2026/02/10**: 🔥🔥🔥Release the checkpoint of **[Video-o3 (RL)](https://huggingface.co/collections/MCG-NJU/video-o3)** and **[Video-o3 (SFT+RL)](https://huggingface.co/collections/MCG-NJU/video-o3)**.
 - [x] **2026/02/10**: 🔥🔥🔥Release **[Seeker-173K](https://huggingface.co/datasets/MCG-NJU/Seeker-173K)**, a large-scale dataset comprising 173K high-quality tool-interaction trajectories for effective supervised and reinforcement learning.
 - [x] **2026/01/30**: 🔥🔥🔥Release the paper of **[Video-o3](https://arxiv.org/abs/2601.23224)**, a novel framework that supports native interleaved clue seeking for long video multi-hop reasoning.
 
 ## 📑 Todo List
-- [ ] Release the evaluation code for Video-o3.
-- [ ] Release the training code for SFT and RL.
 - [ ] Refine the user documentation and tutorials.
 - [ ] Update with more engaging and interactive demos.
 - [ ] Provide a streamlined guide for quick inference.
