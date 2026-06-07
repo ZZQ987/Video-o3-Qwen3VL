@@ -26,6 +26,13 @@ Ensure that the training data is placed in the following directory:
 
 **Video Data Setup:**
 1. Download all required video files.
+ - **CGBench:** [https://huggingface.co/datasets/CG-Bench/CG-Bench/tree/main](https://huggingface.co/datasets/CG-Bench/CG-Bench/tree/main)
+* **LLaVA-Video:** [https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/2_3_m_youtube_v0_1](https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K/tree/main/2_3_m_youtube_v0_1)
+ - **LongVideoDB:** [https://huggingface.co/datasets/LongVideos/LongVideoDB-373K-Videos/tree/main](https://huggingface.co/datasets/LongVideos/LongVideoDB-373K-Videos/tree/main)
+ - **LongVT:** [https://huggingface.co/datasets/longvideotool/LongVT-Source/tree/main](https://huggingface.co/datasets/longvideotool/LongVT-Source/tree/main)
+ - **LongVideoReason:** [https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason/tree/main](https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason/tree/main)
+ - **NextGQA:** [https://doc-doc.github.io/docs/nextqa.html](https://doc-doc.github.io/docs/nextqa.html)
+ - **SelfBuilt:** [https://huggingface.co/datasets/ZZQ987/Video-o3-Selfbuilt](https://huggingface.co/datasets/ZZQ987/Video-o3-Selfbuilt)
 2. Extract frames from the videos at a frame rate of **4fps**.
 3. Save the extracted frames to a directory of your choice.
 4. Update the launch scripts (`scripts/train/train_RL_singlenodes.sh` or `scripts/train/ray_start_multinodes.sh`) by changing the `BASE_IMAGE_DIR` environment variable to your actual video frames root directory:
